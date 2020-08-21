@@ -8,4 +8,19 @@ body {
   -o-object-fit: cover;
      object-fit: cover;
 }
+
+a,
+.btn-link {
+  font-size: 15px;
+}
+
+a:hover,
+.btn-link:hover {
+  text-decoration: none;
+}
+
+a i,
+.btn-link i {
+  font-size: 20px;
+}
 /*# sourceMappingURL=style.css.map */

@@ -7,3 +7,14 @@ body {
     height: 250px;
     object-fit: cover;
 }
+
+a,
+.btn-link {
+    font-size: 15px;
+    &:hover {
+        text-decoration: none;
+    }
+    i {
+        font-size: 20px;
+    }
+}
